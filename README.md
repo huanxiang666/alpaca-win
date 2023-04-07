@@ -1,4 +1,4 @@
-# alpaca-win
+#  Stanford Alpaca (羊驼)：ChatGPT 学术版开源 在Windows下单机运行
 斯坦福大学的alpaca-win 我们发现新手根本不知道如何在windows下部署这个项目，于是为我们提供了帮助<br>
 https://github.com/huanxiang666/-alpaca-win/releases/tag/alpaca-win<br>
 不过你需要自己下载模型数据包bin<br>
