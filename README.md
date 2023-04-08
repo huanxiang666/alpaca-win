@@ -7,3 +7,5 @@ https://github.com/huanxiang666/-alpaca-win/releases/tag/alpaca-win<br>
 ![image](https://user-images.githubusercontent.com/70996861/230566454-9a74db27-79c2-4364-80e3-3ae4126b5e67.png)
 我这边还有一个其他的模型
 https://huggingface.co/eachadea/ggml-vicuna-13b-4bit
+<br>
+https://github.com/ggerganov/llama.cpp/releases
